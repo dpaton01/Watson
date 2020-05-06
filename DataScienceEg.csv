@@ -1,4 +1,4 @@
-case_id,likelihood_to_recommend,ticket_open_date,support_plan,account_type,sr_severity
-cs0000001,1,12/02/19,support_tier_2,account_type_1,3
-cs0000002,1,12/01/19,support_tier_2,account_type_1,4
-cs0000003,1,12/01/19,support_tier_1,account_type_2,4
+Case,Liklihood,Plan,Type,Severity
+cs0000001,1,support_tier_2,account_type_1,3
+cs0000002,1,support_tier_2,account_type_1,4
+cs0000003,1,support_tier_1,account_type_2,4
